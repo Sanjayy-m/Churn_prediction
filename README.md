@@ -1,4 +1,3 @@
-
 # Churn Prediction
 
 ## Overview
@@ -15,9 +14,9 @@ The dataset used for this project contains historical customer data including de
 5. **Hyperparameter Tuning**: Tuned hyperparameters using techniques like grid search or random search to optimize model performance.
 6. **Model Deployment**: Deployed the best-performing model for churn prediction.
 
+## Usage
 
-
-Run the Jupyter notebook `churn_prediction.ipynb` to train models and generate predictions.
+1. Run the Jupyter notebook `churn_prediction.ipynb` to train models and generate predictions.
 
 ## Results
 The best-performing model achieved an accuracy of X% on the test set, with a precision of Y%, recall of Z%, and F1-score of W%.
@@ -27,10 +26,3 @@ The best-performing model achieved an accuracy of X% on the test set, with a pre
 - Experiment with advanced machine learning techniques such as neural networks or ensemble methods.
 - Implement real-time prediction capabilities for proactive churn management.
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize it further based on your specific project details and preferences.
